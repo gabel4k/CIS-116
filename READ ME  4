@@ -1,0 +1,48 @@
+
+ASSIGNMENT INSTRUCTIONS:
+
+Accept two integers and check whether they are equal or not.
+Expected Output :
+Number1 and Number2 are equal
+
+Check whether a given number is even or odd.
+
+Expected Output :
+15 is an odd integer
+
+Check whether a given number is positive or negative.
+Expected Output :
+15 is a positive number
+
+Find whether a given year is a leap year or not
+Expected Output :
+2016 is a leap year.
+
+Read the age of a candidate and determine whether it is eligible for casting his/her own vote.
+
+Expected Output :
+Congratulation! You are eligible for casting your vote.
+
+Read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.
+
+Expected Output :
+The value of n = -1
+
+Accept the height of a person in centimeter and categorize the person according to their height.
+
+Expected Output :
+The person is Short
+
+Find the largest of three numbers.
+
+Expected Output :
+1st Number = 12,        2nd Number = 25,        3rd Number = 52
+The 3rd Number is the greatest among three
+
+Create a match statement to output one of the following statements
+You own a fish
+You own a dog
+You own a fish
+You own a Squirrel
+For all other input
+    You need a friend
