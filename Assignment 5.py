@@ -88,7 +88,7 @@ userIn = ''
 print('\nEnter a series of integers and I\'ll calculate the average. When finished, enter "q" without the quotations.')
 while userIn != 'q':
     userIn = input('Enter an integer (or "q" to quit): ')
-    if not userIn.isalpha():
+    if userIn.isdigit():
         sum += int(userIn)
         inNum += 1
     elif userIn != 'q':
